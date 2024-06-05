@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![image](https://github.com/rakibkhanofficial/budget-allocation_app/assets/39366407/b81ffa26-32e6-4f6d-b41f-8fd2985f9707)
+
 
 ## Available Scripts
 
